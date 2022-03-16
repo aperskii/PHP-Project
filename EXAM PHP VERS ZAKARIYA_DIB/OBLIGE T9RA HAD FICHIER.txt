@@ -1,0 +1,12 @@
+alors adkhel l phpmyadmin , adire root , mdp : khawi ghadi t con hedshi ila kan 3andék wamp 
+aprés ghady t créer wa7ad la base de donnes smiteha examen ktbeha fhal hakak pcq sinon rah khssék tbdel f code 
+of course ila kenty 3arf bdel sinon dire hedshi li kangolo lik 
+aprés mat creer la base de donnee adkhel liha cliquer eliha atl9aha f jnb wa adkhel l ongel dial sql .
+ghadi t7al fichier dial creation et insertion de donnes.sql rah kayn f dossier copier dekshi kaml wa coller f sql(phpmyadmin) wa dire ctrl+a 
+wa executé , rah t creeat wa7ad la table smiteha client fiha les champs wa les donnees bash tester of course t9dr tbdel 
+aprés ghadi dji wa wa dire copier coller l had dossier KAML f WWW li kayn (C:\wamp\www) wa khraj fhalk , sire dkhel l localhost wa ayabn lik dossier 
+aprés cliquer elih wa cliquer aprés ela version_final.php et voila tb9a tester dekshi m3a rassék dekshi dial design rah gha 
+bootstrap wa zwaa9 copier coller hedshi mohim kayn li aykhdem bih f pfe kayn li la a la base u safé ^^ et bonne chance 
+
+
+BY ZAKARIYA && DIB . 
